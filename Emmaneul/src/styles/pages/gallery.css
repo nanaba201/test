@@ -1,0 +1,10 @@
+.gallery {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 10px;
+}
+.school_logo_1 {
+  height: 140px;
+  width: 160px;
+}

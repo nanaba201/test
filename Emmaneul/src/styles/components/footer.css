@@ -1,0 +1,52 @@
+.footer {
+  width: 100vw;
+  background-color: #198754;
+  display: flex;
+  color: white;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.footer-text {
+  color: white;
+  display: flex;
+  margin-right: 50px;
+  margin-top: 10px;
+  font-size: 18px;
+  font-family: "Arial", sans-serif;
+  font-weight: 300;
+}
+
+.eden-school {
+  font-size: "20px";
+  font-weight: "bold";
+}
+
+@media (max-width: 768px) {
+  .footer {
+    font-size: 14px;
+    gap: 50px;
+  }
+
+  .footer-text {
+    color: white;
+    display: flex;
+    margin-right: 50px;
+    margin-top: 10px;
+    font-size: 18px;
+    font-family: "Arial", sans-serif;
+    font-weight: 300;
+  }
+}
+
+@media (max-width: 480px) {
+  .footer a {
+    color: white;
+    text-decoration: none;
+    transition: transform 0.2s ease-in-out;
+  }
+
+  .footer a:hover {
+    transform: scale(1.2);
+  }
+}
