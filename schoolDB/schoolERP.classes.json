@@ -1,0 +1,414 @@
+[{
+  "_id": {
+    "$oid": "67d0b4ba94569bb4dfc4e2d7"
+  },
+  "name": "LKG",
+  "section": "A",
+  "subjects": [
+    "English",
+    "Mathematics",
+    "Hindi",
+    "General Awarness"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d0b4c194569bb4dfc4e2d9"
+  },
+  "name": "UKG",
+  "section": "A",
+  "subjects": [
+    "English",
+    "Mathematics",
+    "Hindi",
+    "General Awarness"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d0b52a94569bb4dfc4e2e9"
+  },
+  "name": "I",
+  "section": "A",
+  "subjects": [
+    "English",
+    "Mathematics",
+    "Hindi",
+    "Science",
+    "Social Science",
+    "Computer",
+    "General Knowledge"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d0b53294569bb4dfc4e2eb"
+  },
+  "name": "II",
+  "section": "A",
+  "subjects": [
+    "English",
+    "Mathematics",
+    "Hindi",
+    "Science",
+    "Social Science",
+    "Computer",
+    "General Knowledge"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d0b53994569bb4dfc4e2ed"
+  },
+  "name": "III",
+  "section": "A",
+  "subjects": [
+    "English",
+    "Mathematics",
+    "Hindi",
+    "Science",
+    "Social Science",
+    "Computer",
+    "General Knowledge"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d0b53f94569bb4dfc4e2ef"
+  },
+  "name": "IV",
+  "section": "A",
+  "subjects": [
+    "English",
+    "Mathematics",
+    "Hindi",
+    "Science",
+    "Social Science",
+    "Computer",
+    "Genral Knowleage"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d0b54494569bb4dfc4e2f1"
+  },
+  "name": "V",
+  "section": "A",
+  "subjects": [
+    "English",
+    "Mathematics",
+    "Hindi",
+    "Science",
+    "Social Science",
+    "Sanskrit",
+    "Computer",
+    "General Knowledge"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d0b59a94569bb4dfc4e315"
+  },
+  "name": "VI",
+  "section": "A",
+  "subjects": [
+    "English",
+    "Mathematics",
+    "Hindi",
+    "Science",
+    "Social Science",
+    "Sanskrit",
+    "Computer",
+    "General Knowledge"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d0b5a194569bb4dfc4e317"
+  },
+  "name": "VII",
+  "section": "A",
+  "subjects": [
+    "English",
+    "Mathematics",
+    "Hindi",
+    "Science",
+    "Social Science",
+    "Sanskrit",
+    "Computer",
+    "General Knowledge"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d0b5a694569bb4dfc4e319"
+  },
+  "name": "VIII",
+  "section": "A",
+  "subjects": [
+    "English",
+    "Mathematics",
+    "Hindi",
+    "Science",
+    "Social Science",
+    "Sanskrit",
+    "Computer",
+    "General Knowledge"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d0b5dc94569bb4dfc4e31b"
+  },
+  "name": "IX",
+  "section": "A",
+  "subjects": [
+    "English",
+    "Mathematics",
+    "Hindi",
+    "Science",
+    "Social Science",
+    "IT"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d0b5e194569bb4dfc4e31d"
+  },
+  "name": "X",
+  "section": "A",
+  "subjects": [
+    "English",
+    "Mathematics",
+    "Hindi",
+    "Science",
+    "Social Science",
+    "IT"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d0b64e94569bb4dfc4e31f"
+  },
+  "name": "XI",
+  "section": "SCI Math",
+  "subjects": [
+    "English Core",
+    "Physics",
+    "Chemistry",
+    "Mathematics",
+    "PAINTING"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e1ab2c164ed2cf9b533c16"
+  },
+  "name": "XI",
+  "section": "ARTS",
+  "subjects": [
+    "English Core",
+    "Painting",
+    "Political Science",
+    "History",
+    "Geography"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698dda690d5ecc2fc454bdb8"
+  },
+  "name": "XI",
+  "section": "SCI Bio",
+  "subjects": [
+    "English Core",
+    "Physics",
+    "Chemistry",
+    "Biology",
+    "PAINTING"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698dda890d5ecc2fc454bdb9"
+  },
+  "name": "XI",
+  "section": "SCI Maths / Bio",
+  "subjects": [
+    "English Core",
+    "Physics",
+    "Chemistry",
+    "Mathematics",
+    "Biology",
+    "PAINTING"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698ddaf80d5ecc2fc454bdba"
+  },
+  "name": "XI",
+  "section": "Commerce 1",
+  "subjects": [
+    "English Core",
+    "Accountancy",
+    "Business Studies",
+    "Economics",
+    "PAINTING"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698ddb0a0d5ecc2fc454bdbb"
+  },
+  "name": "XI",
+  "section": "Commerce 2",
+  "subjects": [
+    "English Core",
+    "Accountancy",
+    "Business Studies",
+    "Economics",
+    "Applied Mathematics",
+    "PAINTING"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698ddb1e0d5ecc2fc454bdbc"
+  },
+  "name": "XI",
+  "section": "Commerce 3",
+  "subjects": [
+    "English Core",
+    "Accountancy",
+    "Business Studies",
+    "Economics",
+    "Applied Mathematics"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698ddb8f0d5ecc2fc454bdbd"
+  },
+  "name": "XII",
+  "section": "SCI Math",
+  "subjects": [
+    "English Core",
+    "Physics",
+    "Chemistry",
+    "Mathematics",
+    "PAINTING"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698ddb9a0d5ecc2fc454bdbe"
+  },
+  "name": "XII",
+  "section": "SCI Bio",
+  "subjects": [
+    "English Core",
+    "Physics",
+    "Chemistry",
+    "Biology",
+    "PAINTING"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698ddba60d5ecc2fc454bdbf"
+  },
+  "name": "XII",
+  "section": "SCI Maths / Bio",
+  "subjects": [
+    "English Core",
+    "Physics",
+    "Chemistry",
+    "Mathematics",
+    "Biology",
+    "PAINTING"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698ddbaf0d5ecc2fc454bdc0"
+  },
+  "name": "XII",
+  "section": "Commerce 1",
+  "subjects": [
+    "English Core",
+    "Accountancy",
+    "Business Studies",
+    "Economics",
+    "PAINTING"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698ddbb80d5ecc2fc454bdc1"
+  },
+  "name": "XII",
+  "section": "Commerce 2",
+  "subjects": [
+    "English Core",
+    "Accountancy",
+    "Business Studies",
+    "Economics",
+    "Applied Mathematics",
+    "PAINTING"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698ddbc40d5ecc2fc454bdc2"
+  },
+  "name": "XII",
+  "section": "Commerce 3",
+  "subjects": [
+    "English Core",
+    "Accountancy",
+    "Business Studies",
+    "Economics",
+    "Applied Mathematics"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "698ddbd00d5ecc2fc454bdc3"
+  },
+  "name": "XII",
+  "section": "ARTS",
+  "subjects": [
+    "English Core",
+    "Painting",
+    "Political Science",
+    "History",
+    "Geography"
+  ],
+  "__v": 0
+}]
