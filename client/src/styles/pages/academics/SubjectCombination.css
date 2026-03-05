@@ -1,0 +1,216 @@
+/* .zoom-img {
+  transition: transform 0.3s ease-in-out;
+}
+
+.zoom-img:hover {
+  transform: scale(1.1);
+}
+
+.subject-container {
+  background-color: white;
+  color: black;
+  padding: 20px;
+  text-align: center;
+}
+
+.school-logo {
+  height: 120px;
+  width: 120px;
+  margin-top: -50px;
+}
+
+.school-name {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.course-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 0 80px;
+  background-color: rgba(25, 135, 84, 0.7);
+  border-radius: 12px;
+  padding: 20px;
+  color: white;
+  gap: 80px;
+}
+
+.school-logo-large {
+  height: 200px;
+  width: 200px;
+  margin-left: 20px;
+}
+
+.course-title {
+  text-align: left;
+  color: white;
+  margin-left: 8px;
+  margin-bottom: 10px;
+}
+
+.course-list {
+  list-style-type: disc;
+  text-align: left;
+  margin-left: 10px;
+  color: white;
+}
+
+.course-list li {
+  margin-bottom: 10px;
+}
+
+.stream-title {
+  text-align: left;
+  color: white;
+  margin-left: 4px;
+  font-weight: bold;
+} */
+
+/* Default Styles (For Larger Screens) */
+.zoom-img {
+  transition: transform 0.3s ease-in-out;
+}
+
+.zoom-img:hover {
+  transform: scale(1.1);
+}
+
+.subject-container {
+  background-color: white;
+  color: black;
+  padding: 20px;
+  text-align: center;
+}
+
+.school-logo {
+  height: 120px;
+  width: 120px;
+  margin-top: -50px;
+}
+
+.school-name {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.course-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 0 80px;
+  background-color: rgba(25, 135, 84, 0.7);
+  border-radius: 12px;
+  padding: 20px;
+  color: white;
+  gap: 80px;
+}
+
+.school-logo-large {
+  height: 200px;
+  width: 200px;
+  margin-left: 20px;
+}
+
+.course-title {
+  text-align: left;
+  color: white;
+  margin-left: 8px;
+  margin-bottom: 10px;
+}
+
+.course-list {
+  list-style-type: disc;
+  text-align: left;
+  margin-left: 10px;
+  color: white;
+}
+
+.course-list li {
+  margin-bottom: 10px;
+}
+
+.stream-title {
+  text-align: left;
+  color: white;
+  margin-left: 4px;
+  font-weight: bold;
+}
+
+/* 📱 Mobile Responsive Styles */
+@media (max-width: 768px) {
+  .course-container {
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    padding: 15px;
+    gap: 20px;
+  }
+
+  .school-logo-large {
+    height: 120px;
+    width: 120px;
+    margin-left: 0;
+  }
+
+  .school-logo {
+    height: 100px;
+    width: 100px;
+    margin-top: -20px;
+  }
+
+  .school-name {
+    font-size: 16px;
+  }
+
+  .course-title {
+    text-align: center;
+    font-size: 18px;
+    margin-left: 0;
+  }
+
+  .course-list {
+    text-align: left;
+    font-size: 14px;
+    padding: 0 10px;
+  }
+
+  .stream-title {
+    font-size: 16px;
+    text-align: center;
+  }
+}
+
+/* 📱 Smaller Mobile Devices (max-width: 480px) */
+@media (max-width: 480px) {
+  .course-container {
+    padding: 10px;
+  }
+
+  .school-logo-large {
+    height: 100px;
+    width: 100px;
+  }
+
+  .school-logo {
+    height: 80px;
+    width: 80px;
+  }
+
+  .school-name {
+    font-size: 14px;
+  }
+
+  .course-title {
+    font-size: 16px;
+  }
+
+  .course-list {
+    font-size: 12px;
+    padding: 0 5px;
+  }
+
+  .stream-title {
+    font-size: 14px;
+  }
+}

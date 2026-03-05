@@ -1,0 +1,75 @@
+/* Container */
+.principal-desk-container {
+  background-color: white;
+  color: black;
+}
+
+/* School Image */
+.principal-desk-container img {
+  width: 100%;
+  height: auto;
+}
+
+/* Logo */
+.school-logo {
+  margin-left: 15px;
+  margin-top: -50px;
+}
+
+/* School Name */
+.school-name {
+  font-size: 20px;
+  text-align: center;
+}
+
+/* Principal Desk Section */
+.principal-desk-section {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 0 80px 0 80px;
+  margin-bottom: 40px;
+  background-color: rgba(25, 135, 84, 0.7);
+  border-radius: 12px;
+  padding: 20px;
+  color: white;
+  gap: 80px;
+}
+
+/* Principal Image */
+.principal-image {
+  height: 200px;
+  width: 200px;
+  margin-left: 20px;
+}
+
+/* Text Content */
+.principal-text {
+  text-align: left;
+  color: white;
+  margin-left: 10px;
+}
+
+/* Title */
+.principal-title {
+  text-align: left;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .principal-desk-section {
+    flex-direction: column;
+    align-items: center;
+    margin: 0 20px;
+    gap: 20px;
+    margin-bottom: 40px;
+  }
+
+  .school-logo {
+    max-width: 100px;
+    margin-left: 15px;
+    margin-top: -50px;
+  }
+}
